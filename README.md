@@ -4,21 +4,19 @@
   <img src="https://i.pinimg.com/1200x/4d/00/0c/4d000c26dc4e702ee3811487fb452c47.jpg" width="100%" hight="10px" alt="Animated GIF Banner"/>
 </p>
 
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&weight=700&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;CEH+Certified;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&weight=700&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Full+Stack+Developer;CEH+Certified;Software+Engineer" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdul--vajid">
+  <a href="https://www.linkedin.com/in/abdul-vajid-2a225a312">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=000000&color=ffffff" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:vvajidz56@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white&labelColor=000000&color=ffffff" alt="Email Badge"/>
   </a>
-  <a href="https://YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=google-chrome&logoColor=white&labelColor=000000&color=ffffff" alt="Portfolio Badge"/>
+  <a href="https://github.com/vvajidz">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white&labelColor=000000&color=ffffff" alt="GitHub Badge"/>
   </a>
 </div>
 
@@ -27,105 +25,132 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <em>🚀 Turning complex problems into <strong>elegant, efficient, and scalable</strong> web applications</em>
+  <em>🚀 Turning complex problems into <strong>scalable digital experiences</strong> with secure, modern engineering.</em>
 </p>
 
 <div align="center">
-📍 Based in: <strong>Malappuram, Kerala, India</strong> | 🎓 <strong>Software Engineering Student</strong> | <strong>CEH Certified Professional</strong>
+📍 Kerala, India | 🎓 Software Engineering | 🔐 CEH Certified  
 <br>
-💼 Currently: <strong>Open to Full-time Opportunities & Freelancing</strong>
+💼 Open to Full-time Roles, Startup Collabs & Freelance  
 <br>
-🎮 Passions: <strong>Coding, Gaming, Cybersecurity Research</strong>
-</div>
-
-## 🛠 Tech Stack & Tools
-
-### 💻 Frontend Development
-<div align="center">
-  <img src="https://img.shields.io/badge/%20React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=000000&color=ffffff" alt="React"/>
-  <img src="https://img.shields.io/badge/%20Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&labelColor=000000&color=ffffff" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/%20JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=000000&color=ffffff" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/%20TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=000000&color=ffffff" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/%20HTML5-E34F26?style=flat&logo=html5&logoColor=white&labelColor=000000&color=ffffff" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/%20CSS3-1572B6?style=flat&logo=css3&logoColor=white&labelColor=000000&color=ffffff" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/%20Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white&labelColor=000000&color=ffffff" alt="Tailwind CSS"/>
-</div>
-
-### 🔧 Backend & Database
-<div align="center">
-  <img src="https://img.shields.io/badge/%20Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=000000&color=ffffff" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/%20Express.js-000000?style=flat&logo=express&logoColor=white&labelColor=000000&color=ffffff" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/%20MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=000000&color=ffffff" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/%20PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white&labelColor=000000&color=ffffff" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/%20Firebase-FFCA28?style=flat&logo=firebase&logoColor=white&labelColor=000000&color=ffffff" alt="Firebase"/>
-</div>
-
-### ⚡ Tools & Technologies
-<div align="center">
-  <img src="https://img.shields.io/badge/%20Git-F05032?style=flat&logo=git&logoColor=white&labelColor=000000&color=ffffff" alt="Git"/>
-  <img src="https://img.shields.io/badge/%20GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=000000&color=ffffff" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/%20VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&labelColor=000000&color=ffffff" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/%20Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=000000&color=ffffff" alt="Docker"/>
-  <img src="https://img.shields.io/badge/%20Linux-FCC624?style=flat&logo=linux&logoColor=white&labelColor=000000&color=ffffff" alt="Linux"/>
-  <img src="https://img.shields.io/badge/%20CEH_Certified-FF6B6B?style=flat&logo=security&logoColor=white&labelColor=000000&color=ffffff" alt="CEH"/>
-</div>
-
----
-## 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvajidz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvajidz&layout=compact&theme=gotham" width="41%" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvajidz&theme=gotham" width="90%" alt="GitHub Streak"/>
-</div>
----
-
-## 🎯 Current Focus
-<div align="center">
-<ul>
-  <li>🔥 <strong>Open to new job opportunities</strong> and exciting full-time roles</li>
-  <li>💼 Currently <strong>Freelancing</strong> - Taking on dynamic web development projects</li>
-  <li>🚀 Building scalable applications with modern technologies</li>
-  <li>🔒 Exploring <strong>cybersecurity and ethical hacking</strong> methodologies</li>
-</ul>
+🔥 Passion for Full-Stack Engineering • Cybersecurity • Ethical Hacking  
 </div>
 
 ---
 
+## 🛠 Tech Stack
 
-## 📫 Let's Connect & Collaborate
-<div align="center">
-💬 Always open to:
-- New project opportunities & collaborations
-- Code reviews & technical discussions
-- Full-time developer roles
-- Freelance web development projects
-
-<br>
-
-📧 Reach me via:
-<br>
-<a href="https://www.linkedin.com/in/abdul--vajid">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=000000&color=ffffff" alt="LinkedIn Badge"/>
-</a>
-<a href="mailto:vvajidz56@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white&labelColor=000000&color=ffffff" alt="Email Badge"/>
-</a>
-</div>
-<div align="center">
-  
-<br>
-
-⭐ Explore my repos & star your favorites!
-<img src="https://komarev.com/ghpvc/?username=vvajidz&color=00ff88&style=flat" alt="Profile Views"/>
-</div>
-
----
-
+### 💻 Frontend
 <p align="center">
-<em>"Code is like humor. When you have to explain it, it's bad." - Cory House</em>
+React • Next.js • TypeScript • Tailwind • Zustand
 </p>
 
-<br>
+### 🧠 Backend
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/c3/90/3c/c3903c0a561996c8764021e8013d532d.jpg" width="100%" hight="10px" alt="Animated GIF Banner"/>
-</p> 
+Node.js • Express.js • REST | MVC | JWT Auth
+</p>
+
+### 🗄 Databases
+<p align="center">
+MongoDB • PostgreSQL • Schema Design • Query Optimization
+</p>
+
+### ⚙ DevOps & Tools
+<p align="center">
+Docker • Vercel • Render • CI/CD • Postman • OAuth
+</p>
+
+### 🤝 Version Control
+<p align="center">
+Git • GitHub • Code Reviews • Agile/Scrum
+</p>
+
+### 🧩 Integrations
+<p align="center">
+Cloudinary • GRPC • Multer • Payment APIs
+</p>
+
+---
+
+## 🚀 Experience
+
+### 📌 Full Stack Developer — Bridgeon Solutions | 2025
+- Built real-world scalable UI components in React & Tailwind  
+- State management with Redux + Zustand  
+- Improved workflow in Git, CI/CD & Agile environments  
+- Hands-on experience connecting frontend → backend flows  
+
+---
+
+## 🏗️ Projects
+
+### 🧾 FORBI — Retail Billing & POS System
+- Full-stack retail billing system with GST-compliant invoicing  
+- Barcode scanning, discount logic, multi-payment mode  
+- Role-based access control + secure cookie sessions  
+- Real-time inventory reporting + analytics dashboard  
+- Advanced tables: Filtering • Sorting • Pagination  
+- Dark mode + reusable Shadcn components  
+
+---
+
+### 🧰 LOCAFY — Trusted Home Services Booking Platform  
+**Tech:** React • TypeScript • Express • PostgreSQL • Microservices • Docker • Google/Facebook Auth  
+- Built scalable microservices architecture  
+- Service discovery system with provider dashboards  
+- Integrated third-party auth (Google / Meta)  
+- Containerized deployment with Docker  
+
+---
+
+## 🎓 Education
+
+📌 **Diploma in Cyber Defence — RedTeam Academy (2023–24)**  
+- Practical cybersecurity labs  
+- Digital forensics experience  
+- **EC-Council CEH Certification**  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vvajidz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvajidz&layout=compact&theme=gotham" width="41%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvajidz&theme=gotham" width="90%" />
+</div>
+
+---
+
+## 🎯 What's Next?
+
+- Scaling microservice projects  
+- Deepening cybersecurity specialization  
+- Exploring system design and distributed systems  
+- Building SaaS products  
+
+---
+
+## 🤝 Collaboration & Opportunities
+
+If you're hiring, planning a project, or building something cool — hit me up:
+
+<div align="center">
+
+📩 **vvajidz56@gmail.com**  
+🔗 LinkedIn | GitHub | Portfolio (soon)  
+
+<br>
+
+⭐ If you vibe with my work — drop a star.  
+<img src="https://komarev.com/ghpvc/?username=vvajidz&color=00ff88&style=flat" />
+
+</div>
+
+---
+
+<p align="center"><em>"Build. Break. Learn. Repeat."</em></p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/c3/90/3c/c3903c0a561996c8764021e8013d532d.jpg" width="100%" alt="Animated GIF Banner"/>
+</p>
