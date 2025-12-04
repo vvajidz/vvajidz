@@ -1,13 +1,13 @@
 <h1 align="center" hight="20px" width="2000px" >ABDUL VAJID</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/4d/00/0c/4d000c26dc4e702ee3811487fb452c47.jpg" width="100%" hight="10px" alt="Animated GIF Banner"/>
+  <img src="https://i.pinimg.com/originals/fd/c8/e7/fdc8e7325d1b7721762f43d328bbdddf.gif" width="100%" hight="10px" alt="Animated GIF Banner"/>
 </p>
 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&weight=700&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;CEH+Certified;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&weight=700&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=SullStack+Developer;" alt="Typing SVG" />
 </p>
 
 <div align="center">
