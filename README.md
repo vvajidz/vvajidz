@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=google-chrome&logoColor=white&labelColor=000000&color=ffffff" alt="Portfolio Badge"/>
   </a>
 </div>
----
+
 <p align="center">
 <em>"Make it work. Make it clean. Make it fast."</em>
 </p>
