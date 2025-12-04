@@ -23,7 +23,3 @@
   </a>
 </div>
 
-<p align="center">
-<em>"Make it work. Make it clean. Make it fast."</em>
-</p>
-<br>
