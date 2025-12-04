@@ -18,7 +18,7 @@
   <a href="mailto:vvajidz56@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white&labelColor=000000&color=ffffff" alt="Email Badge"/>
   </a>
-  <a href="vvajidz.vercel.app">
+  <a href="https://vvajidz.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=google-chrome&logoColor=white&labelColor=000000&color=ffffff" alt="Portfolio Badge"/>
   </a>
 </div>
