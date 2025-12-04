@@ -71,26 +71,8 @@
   <img src="https://img.shields.io/badge/%20CEH_Certified-FF6B6B?style=flat&logo=security&logoColor=white&labelColor=000000&color=ffffff" alt="CEH"/>
 </div>
 
----
-## 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvajidz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvajidz&layout=compact&theme=gotham" width="41%" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvajidz&theme=gotham" width="90%" alt="GitHub Streak"/>
-</div>
----
 
-## 🎯 Current Focus
-<div align="center">
-<ul>
-  <li>🔥 <strong>Open to new job opportunities</strong> and exciting full-time roles</li>
-  <li>💼 Currently <strong>Freelancing</strong> - Taking on dynamic web development projects</li>
-  <li>🚀 Building scalable applications with modern technologies</li>
-  <li>🔒 Exploring <strong>cybersecurity and ethical hacking</strong> methodologies</li>
-</ul>
-</div>
 
----
 
 
 ## 📫 Let's Connect & Collaborate
@@ -99,7 +81,7 @@
 - New project opportunities & collaborations
 - Code reviews & technical discussions
 - Full-time developer roles
-- Freelance web development projects
+- Freelance  development projects
 
 <br>
 
@@ -121,12 +103,7 @@
 </div>
 
 ---
-
 <p align="center">
-<em>"Code is like humor. When you have to explain it, it's bad." - Cory House</em>
+<em>"Make it work. Make it clean. Make it fast."</em>
 </p>
-
 <br>
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/c3/90/3c/c3903c0a561996c8764021e8013d532d.jpg" width="100%" hight="10px" alt="Animated GIF Banner"/>
-</p> make it professional and clean
