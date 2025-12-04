@@ -7,8 +7,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&weight=900&size=30&duration=2000&pause=800&color=000000&background=FFFFFF00&center=true&vCenter=true&width=500&lines=FullStack+Developer;&shadow=FFFFFF" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&weight=900&size=30&duration=2000&pause=800&color=000000&center=true&vCenter=true&width=500&lines=FullStack+Developer;&shadow=ffffff" />
 </p>
+
 
 
 <div align="center">
