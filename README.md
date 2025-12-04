@@ -5,8 +5,6 @@
 </p>
 
 <h1 align="center" hight="20px" width="2000px" >ABDUL VAJID</h1>
-
-
 <p align="center">
   <span style="font-size:28px; font-weight:600;">FullStack Developer</span>
 </p>
