@@ -7,8 +7,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&weight=700&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=SullStack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=FullStack+Developer;" alt="Typing SVG" />
 </p>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdul--vajid">
